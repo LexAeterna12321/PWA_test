@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/PWA_test/static/js/2.488df88c.chunk.js"
   },
   {
-    "revision": "f816e6d52237f67cdc588cbff3e102c2",
+    "revision": "f42e7cbe384d05de4e781471d19f0b18",
     "url": "/PWA_test/index.html"
   }
 ];
