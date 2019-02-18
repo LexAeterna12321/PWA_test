@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/LexAeterna12321/PWA_test/precache-manifest.42ccb0f782fa9998aa0f8ad49375748a.js"
+  "/PWA_test/precache-manifest.cf0dd8ae866f731e172295cfe878ca51.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/LexAeterna12321/PWA_test/index.html", {
+workbox.routing.registerNavigationRoute("/PWA_test/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

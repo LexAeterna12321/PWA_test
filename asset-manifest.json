@@ -1,15 +1,15 @@
 {
-  "main.css": "/LexAeterna12321/PWA_test/static/css/main.003505b2.chunk.css",
-  "main.js": "/LexAeterna12321/PWA_test/static/js/main.329fdf85.chunk.js",
-  "main.js.map": "/LexAeterna12321/PWA_test/static/js/main.329fdf85.chunk.js.map",
-  "runtime~main.js": "/LexAeterna12321/PWA_test/static/js/runtime~main.11c02a0b.js",
-  "runtime~main.js.map": "/LexAeterna12321/PWA_test/static/js/runtime~main.11c02a0b.js.map",
-  "static/css/2.231d041d.chunk.css": "/LexAeterna12321/PWA_test/static/css/2.231d041d.chunk.css",
-  "static/js/2.488df88c.chunk.js": "/LexAeterna12321/PWA_test/static/js/2.488df88c.chunk.js",
-  "static/js/2.488df88c.chunk.js.map": "/LexAeterna12321/PWA_test/static/js/2.488df88c.chunk.js.map",
-  "index.html": "/LexAeterna12321/PWA_test/index.html",
-  "precache-manifest.42ccb0f782fa9998aa0f8ad49375748a.js": "/LexAeterna12321/PWA_test/precache-manifest.42ccb0f782fa9998aa0f8ad49375748a.js",
-  "service-worker.js": "/LexAeterna12321/PWA_test/service-worker.js",
-  "static/css/2.231d041d.chunk.css.map": "/LexAeterna12321/PWA_test/static/css/2.231d041d.chunk.css.map",
-  "static/css/main.003505b2.chunk.css.map": "/LexAeterna12321/PWA_test/static/css/main.003505b2.chunk.css.map"
+  "main.css": "/PWA_test/static/css/main.003505b2.chunk.css",
+  "main.js": "/PWA_test/static/js/main.42b1cf90.chunk.js",
+  "main.js.map": "/PWA_test/static/js/main.42b1cf90.chunk.js.map",
+  "runtime~main.js": "/PWA_test/static/js/runtime~main.6e5dbc24.js",
+  "runtime~main.js.map": "/PWA_test/static/js/runtime~main.6e5dbc24.js.map",
+  "static/css/2.231d041d.chunk.css": "/PWA_test/static/css/2.231d041d.chunk.css",
+  "static/js/2.488df88c.chunk.js": "/PWA_test/static/js/2.488df88c.chunk.js",
+  "static/js/2.488df88c.chunk.js.map": "/PWA_test/static/js/2.488df88c.chunk.js.map",
+  "index.html": "/PWA_test/index.html",
+  "precache-manifest.cf0dd8ae866f731e172295cfe878ca51.js": "/PWA_test/precache-manifest.cf0dd8ae866f731e172295cfe878ca51.js",
+  "service-worker.js": "/PWA_test/service-worker.js",
+  "static/css/2.231d041d.chunk.css.map": "/PWA_test/static/css/2.231d041d.chunk.css.map",
+  "static/css/main.003505b2.chunk.css.map": "/PWA_test/static/css/main.003505b2.chunk.css.map"
 }
